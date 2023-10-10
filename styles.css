@@ -44,7 +44,7 @@ img {
     padding-left: 16px;
 }
 
-i {
+.magnifying-glass {
     font-size: 18px;
     color: rgb(56, 56, 56);
     background-color: #ffb7c5;
@@ -52,7 +52,7 @@ i {
     border-radius: 0 15px 15px 0;
 }
 
-i:hover {
+.magnifying-glass:hover {
     background-color: #ADD8E6;
 }
 
