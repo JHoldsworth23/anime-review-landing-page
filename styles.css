@@ -16,3 +16,19 @@ img {
     height: 80px;
     width: auto;
 }
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 24px;
+}
+
+.links a {
+    font-size: 22px;
+    color: #ffb7c5;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: #ADD8E6;
+}
