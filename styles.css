@@ -84,12 +84,28 @@ img {
 
 .anime-panel {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: flex-start;
     gap: 20px;
 }
 
 .anime {
-    flex-basis: 180px;
+    flex-basis: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
+}
+
+.anime img {
+    height: 220px;
+    width: auto;
+    padding: 5px;
+    border: 4px solid #ffb7c5;
+}
+
+.anime-title {
+    font-size: 22px;
+    text-align: center;
 }
