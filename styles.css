@@ -2,6 +2,9 @@ body {
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #ffb7c5;
     background-color: rgb(56, 56, 56);
+}
+
+#navigation {
     padding: 0 18%;
 }
 
@@ -46,6 +49,10 @@ i {
     background-color: #ffb7c5;
     padding: 10px;
     border-radius: 0 15px 15px 0;
+}
+
+i:hover {
+    background-color: #ADD8E6;
 }
 
 .links {
