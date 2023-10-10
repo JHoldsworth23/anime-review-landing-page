@@ -1,0 +1,18 @@
+body {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #ffb7c5;
+    background-color: rgb(56, 56, 56);
+    padding: 0 18%;
+}
+
+.navbar {
+    display: flex;
+    align-items: flex-end;
+    gap: 16px;
+}
+
+img {
+    flex-shrink: 1;
+    height: 80px;
+    width: auto;
+}
