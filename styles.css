@@ -82,7 +82,7 @@ img {
     color: #000000;
     background-color: #85cdee;
     padding: 16px;
-    border-radius: 16px;
+    border-radius: 10px;
 }
 
 .news-content {
@@ -90,6 +90,13 @@ img {
     justify-content: space-around;
     align-items: flex-start;
     gap: 20px;
+}
+
+.news-content img {
+    flex: 0 1 auto;
+    height: 225px;
+    border-radius: 10px;
+    margin: auto;
 }
 
 /* PANELS SECTION */
