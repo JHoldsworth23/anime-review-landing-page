@@ -75,7 +75,14 @@ img {
 
 /* NEWS SECTION */
 #anime-news {
-    padding: 0 28%;
+    padding: 2em 28%;
+}
+
+.news-container {
+    color: #000000;
+    background-color: #85cdee;
+    padding: 32px;
+    border-radius: 32px;
 }
 
 /* PANELS SECTION */
