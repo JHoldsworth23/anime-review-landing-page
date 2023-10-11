@@ -85,6 +85,13 @@ img {
     border-radius: 32px;
 }
 
+.news-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    gap: 20px;
+}
+
 /* PANELS SECTION */
 #panels {
     margin: 0 20%;
