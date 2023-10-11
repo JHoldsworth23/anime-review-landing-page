@@ -73,6 +73,11 @@ img {
     color: #ADD8E6;
 }
 
+/* NEWS SECTION */
+#anime-news {
+    padding: 0 28%;
+}
+
 /* PANELS SECTION */
 #panels {
     margin: 0 20%;
