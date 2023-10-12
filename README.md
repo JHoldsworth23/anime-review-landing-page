@@ -9,6 +9,8 @@ anime logo created by Nikita Zadvornijs - https://dribbble.com/shots/10786710-An
 
 cherry blossom - https://www.vecteezy.com/png/22993705-realistic-cherry-blossom-branch-cherry-blossom-with-pink-sakura-flower-png-japanese-cherry-blossom-png-sakura-branch-with-blooming-watercolor-flower-pink-watercolor-cherry-flower-png
 
+cherry blossom petals - https://www.pngwing.com/en/search?q=cherry+blossom+petals
+
 ANIME POSTER:
 
 Jujustu Kaisen 0 - https://getyourcomicon.co.uk/blog/2022/03/13/jujutsu-kaisen-0-2022-review/
