@@ -129,11 +129,11 @@ img {
 }
 
 /* PANELS SECTION */
-#panels {
+#panels, #watchlist {
     margin: 0 20%;
 }
 
-.review-title {
+.title {
     font-size: 28px;
     text-align: center;
 }
