@@ -164,3 +164,26 @@ img {
     margin-top: 8px;
 }
 
+@media screen and (max-width: 1280px) {
+    .news-content {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    .news-content img {
+        height: 100px;
+    }
+
+    .news-headline {
+        font-size: 14px;
+    }
+
+    .news-article {
+        font-size: 12px;
+    }
+
+    .news-link {
+        font-size: 12px;
+    }
+}
