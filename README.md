@@ -24,3 +24,11 @@ Terror in Resonance = https://www.imdb.com/title/tt3613454/
 One Piece - Whole Cake Island - https://onepiece.fandom.com/wiki/Whole_Cake_Island_Arc
 
 Vinland Saga S2 - https://comicbook.com/anime/news/vinland-saga-season-2-trailer-poster-anime/
+
+JoJo's Bizarre Adventure - https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_%28season_1%29
+
+Code Geass - https://www.amazon.co.uk/Geass-R24613-Poster-Photo-Paper/dp/B0B5PHTJS7
+
+Bleach - https://www.amazon.co.uk/Bleach-Anime-Poster-Art-Glossy/dp/B086RX4465
+
+Black Lagoon - https://www.themoviedb.org/tv/12598-black-lagoon
