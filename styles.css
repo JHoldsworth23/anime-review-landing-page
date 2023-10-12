@@ -118,6 +118,12 @@ img {
     font-size: 14px;
 }
 
+.divider {
+    width: 8%;
+    border-top: 1px solid #ffb7c5;
+    border-radius: 1px;
+}
+
 /* PANELS SECTION */
 #panels {
     margin: 0 20%;
