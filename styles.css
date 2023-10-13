@@ -168,6 +168,19 @@ img {
     margin-top: 8px;
 }
 
+/* SUBSCRIPTION SECTION */
+#subscription {
+    margin: 0 30%;
+}
+
+.pink-bg {
+    background-color: #ffb7c5;
+}
+
+.box-content {
+    display: flex;
+}
+
 /* MOBILE SIZED DEVICE */
 @media screen and (max-width: 1280px) {
     .news-content {
