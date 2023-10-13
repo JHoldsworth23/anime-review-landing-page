@@ -170,7 +170,7 @@ img {
 
 /* SUBSCRIPTION SECTION */
 #subscription {
-    margin: 0 30%;
+    margin: 0 20%;
 }
 
 .pink-bg {
@@ -179,6 +179,20 @@ img {
 
 .box-content {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.box-content img {
+    height: 80px;
+    width: auto;
+    margin-right: 8px;
+}
+
+.sub-text {
+    font-size: 18px;
+    margin-top: 0;
 }
 
 /* MOBILE SIZED DEVICE */
