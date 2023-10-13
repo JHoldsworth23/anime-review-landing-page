@@ -205,6 +205,10 @@ img {
 
 /* MOBILE SIZED DEVICE */
 @media screen and (max-width: 1280px) {
+    .navbar, .links {
+        justify-content: center;
+    }
+    
     .news-content {
         flex-wrap: wrap;
     }
