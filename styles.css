@@ -130,7 +130,7 @@ img {
 
 /* PANELS SECTION */
 #panels, #watchlist {
-    margin: 0 20%;
+    margin: 0 20% 2em;
 }
 
 .title {
