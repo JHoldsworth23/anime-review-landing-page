@@ -226,6 +226,11 @@ img {
     margin-top: 16px;
 }
 
+.split {
+    font-size: 24px;
+    padding: 0 2px;
+}
+
 .footer-link {
     color: #ffb7c5;
     text-decoration: none;
@@ -261,5 +266,9 @@ img {
 
     .news-link {
         font-size: 12px;
+    }
+
+    #footer {
+        font-size: 14px;
     }
 }
