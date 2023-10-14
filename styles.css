@@ -2,6 +2,7 @@ body {
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #ffb7c5;
     background-color: rgb(56, 56, 56);
+    margin: 0;
 }
 
 /* NAVIGATION SECTION */
@@ -125,7 +126,7 @@ img {
 .divider {
     width: 8%;
     border-top: 1px solid #ffb7c5;
-    border-radius: 1px;
+
 }
 
 /* PANELS SECTION */
@@ -166,6 +167,46 @@ img {
     text-align: center;
     width: 180px;
     margin-top: 8px;
+}
+
+/* QUOTES SECTION */
+#quotes {
+    background-color: #60c2f0;
+    padding: 0 28%;
+    margin: 2em 0;
+}
+
+.quote-container {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #000000;
+    background-color: #60c2f0;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.quote-heading {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    margin: 8px;
+}
+
+.quote-container hr {
+    width: 160px;
+    border: 1px solid #000000;
+    margin: 6px auto 18px;
+}
+
+.quote-text {
+    margin: 0 auto;
+}
+
+.speaker {
+    font-size: 20px;
+    text-align: end;
+    margin: 8px 8px;
 }
 
 /* SUBSCRIPTION SECTION */
