@@ -194,7 +194,7 @@ img {
 }
 
 .quote-container hr {
-    width: 160px;
+    width: 20%;
     border: 1px solid #000000;
     margin: 6px auto 18px;
 }
@@ -291,23 +291,27 @@ img {
     .news-content {
         flex-wrap: wrap;
     }
+
+    #quotes {
+        padding: 0 12%;
+    }
 }
 
 @media screen and (max-width: 880px) {
+    #anime-news {
+        padding: 2em 14%;
+    }
+    
     .news-content img {
-        height: 100px;
+        height: 180px;
     }
 
     .news-headline {
-        font-size: 14px;
+        font-size: 18px;
     }
 
-    .news-article {
-        font-size: 12px;
-    }
-
-    .news-link {
-        font-size: 12px;
+    .news-article, .news-link {
+        font-size: 16px;
     }
 
     .subscribe-button {
