@@ -179,6 +179,7 @@ img {
 
 .box-content {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
     padding: 10px 0;
@@ -207,7 +208,7 @@ img {
     border-radius: 5px;
 }
 
-.button {
+.subscribe-button {
     font-size: 18px;
     font-weight: bold;
     background-color: #60c2f0;
@@ -266,6 +267,10 @@ img {
 
     .news-link {
         font-size: 12px;
+    }
+
+    .subscribe-button {
+        margin-top: 6px;
     }
 
     #footer {
