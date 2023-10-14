@@ -80,7 +80,7 @@ img {
 
 .news-container {
     color: #000000;
-    background-color: #85cdee;
+    background-color: #60c2f0;
     padding: 16px;
     border-radius: 10px;
 }
@@ -190,16 +190,30 @@ img {
     margin-right: 8px;
 }
 
+.box-form {
+    width: 400px;
+}
+
 .sub-text {
     font-size: 20px;
     margin: 2px 0 6px;
 }
 
 .email {
-    font-size: 20px;
-    width: 70%;
-    padding-left: 8px;
-    border: 1px solid #000000;
+    font-size: 18px;
+    width: 240px;
+    padding: 6px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.button {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #60c2f0;
+    color: #000000;
+    padding: 6px;
+    border: 2px solid #000000;
     border-radius: 5px;
 }
 
