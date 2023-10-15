@@ -169,6 +169,18 @@ img {
     margin-top: 8px;
 }
 
+.petals-divide {
+    display: flex;
+    justify-content: center;
+    margin: 45px 0 30px;
+}
+
+.petals {
+    height: 60px;
+    width: 220px;
+    transform: rotate(-12deg);
+}
+
 /* QUOTES SECTION */
 #quotes {
     background-color: #60c2f0;
@@ -282,7 +294,7 @@ img {
     color: #ADD8E6;
 }
 
-/* MOBILE SIZED DEVICE */
+/* RESPONSIVE */
 @media screen and (max-width: 1280px) {
     .navbar, .links {
         justify-content: center;
