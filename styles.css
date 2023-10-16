@@ -1,5 +1,6 @@
 body {
     font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 18px;
     color: #ffb7c5;
     background-color: rgb(56, 56, 56);
     margin: 0;
@@ -18,7 +19,7 @@ body {
     padding: 16px 20px 0;
 }
 
-.navbar .home {
+.home {
     display: flex;
     align-items: flex-end;
     gap: 16px;
@@ -30,14 +31,13 @@ img {
     width: auto;
 }
 
-.navbar .search-bar {
+.search-bar {
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
 
 .search {
-    font-size: 18px;
     height: 38px;
     width: 300px;
     border: 4px solid #ffb7c5;
@@ -46,7 +46,6 @@ img {
 }
 
 .magnifying-glass {
-    font-size: 18px;
     color: rgb(56, 56, 56);
     background-color: #ffb7c5;
     padding: 10px;
@@ -65,7 +64,6 @@ img {
 }
 
 .links a {
-    font-size: 18px;
     color: #ffb7c5;
     text-decoration: none;
 }
@@ -101,7 +99,6 @@ img {
 }
 
 .news-headline {
-    font-size: 18px;
     font-weight: bold;
     margin: 0;
 }
@@ -126,7 +123,6 @@ img {
 .divider {
     width: 8%;
     border-top: 1px solid #ffb7c5;
-
 }
 
 /* PANELS SECTION */
@@ -175,23 +171,11 @@ img {
 }
 
 .anime-description {
-    font-size: 15px;
+    font-size: 16px;
     width: 240px;
     border-top: 1px solid #FFFFFF;
     padding-top: 4px;
     margin-top: 5px;
-}
-
-.petals-divide {
-    display: flex;
-    justify-content: center;
-    margin: 45px 0 30px;
-}
-
-.petals {
-    height: 60px;
-    width: 220px;
-    transform: rotate(-12deg);
 }
 
 /* QUOTES SECTION */
@@ -206,7 +190,6 @@ img {
     font-style: italic;
     font-weight: lighter;
     color: #000000;
-    background-color: #60c2f0;
     padding: 10px 30px;
     border-radius: 10px;
 }
@@ -232,6 +215,18 @@ img {
     font-size: 20px;
     text-align: end;
     margin: 8px 8px;
+}
+
+.petals-divide {
+    display: flex;
+    justify-content: center;
+    margin: 45px 0 30px;
+}
+
+.petals {
+    height: 60px;
+    width: 220px;
+    transform: rotate(-12deg);
 }
 
 /* SUBSCRIPTION SECTION */
@@ -267,7 +262,6 @@ img {
 }
 
 .email {
-    font-size: 18px;
     width: 240px;
     padding: 6px;
     border: 2px solid #000000;
@@ -275,7 +269,6 @@ img {
 }
 
 .subscribe-button {
-    font-size: 18px;
     font-weight: bold;
     background-color: #60c2f0;
     color: #000000;
