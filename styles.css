@@ -6,6 +6,10 @@ body {
     margin: 0;
 }
 
+.font-size-20 {
+    font-size: 20px;
+}
+
 /* NAVIGATION SECTION */
 #navigation {
     margin: 0 18%;
@@ -164,7 +168,6 @@ img {
 }
 
 .anime-title {
-    font-size: 20px;
     text-align: center;
     width: 180px;
     margin: 8px 0;
@@ -195,7 +198,6 @@ img {
 }
 
 .quote-heading {
-    font-size: 20px;
     font-style: normal;
     text-align: center;
     margin: 8px;
@@ -212,7 +214,6 @@ img {
 }
 
 .speaker {
-    font-size: 20px;
     text-align: end;
     margin: 8px 8px;
 }
@@ -257,7 +258,6 @@ img {
 }
 
 .sub-text {
-    font-size: 20px;
     margin: 2px 0 6px;
 }
 
