@@ -1,4 +1,4 @@
-# supreme-portfolio
+# anime-review-landing-page
 
 INSPIRATION:
 https://www.rogerebert.com/
