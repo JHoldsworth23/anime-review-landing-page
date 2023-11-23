@@ -24,7 +24,6 @@ body {
     background-color: #ffb7c5;
 }
 
-/* NAVIGATION SECTION */
 #navigation {
     margin: 0 18%;
 }
@@ -84,7 +83,6 @@ img {
     color: #ADD8E6;
 }
 
-/* NEWS SECTION */
 #anime-news {
     padding: 2em 28%;
 }
@@ -134,7 +132,6 @@ img {
     border-top: 1px solid #ffb7c5;
 }
 
-/* PANELS SECTION */
 #panels, #watchlist {
     margin: 0 20% 2em;
 }
@@ -182,7 +179,6 @@ img {
     margin-top: 5px;
 }
 
-/* QUOTES SECTION */
 #quotes {
     padding: 0 28%;
     margin: 2em 0;
@@ -228,7 +224,6 @@ img {
     transform: rotate(-12deg);
 }
 
-/* SUBSCRIPTION SECTION */
 #subscription {
     margin: 0 20%;
 }
@@ -270,7 +265,6 @@ img {
     border-radius: 5px;
 }
 
-/* FOOTER SECTION */
 #footer {
     font-size: 16px;
     margin-top: 16px;
