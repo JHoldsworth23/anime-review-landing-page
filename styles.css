@@ -25,9 +25,9 @@ body {
 }
 
 #navigation {
-    position: sticky;
+    /* position: sticky;
     top: 0;
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(56, 56, 56); */
     margin: 0 18%;
 }
 
