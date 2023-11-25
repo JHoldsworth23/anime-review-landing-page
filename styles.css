@@ -118,6 +118,7 @@ img {
     font-size: 16px;
     font-weight: light;
     margin: 8px 0;
+    width: min(75ch, 100%);
 }
 
 .news-link {
