@@ -1,7 +1,12 @@
+:root {
+    --blue-color: #60C2F0;
+    --pink-color: #FFB7C5;
+}
+
 body {
     font-family: 'Trebuchet MS', Arial, sans-serif;
     font-size: 18px;
-    color: #ffb7c5;
+    color: var(--pink-color);
     background-color: rgb(56, 56, 56);
     margin: 0;
 }
@@ -14,14 +19,6 @@ body {
 
 .font-size-20 {
     font-size: 20px;
-}
-
-.blue-bg {
-    background-color: #60c2f0;
-}
-
-.pink-bg {
-    background-color: #ffb7c5;
 }
 
 #navigation {
@@ -55,14 +52,14 @@ img {
 .search {
     height: 38px;
     width: 300px;
-    border: 4px solid #ffb7c5;
+    border: 4px solid var(--pink-color);
     border-radius: 10px 0 0 10px;;
     padding-left: 16px;
 }
 
 .magnifying-glass {
     color: rgb(56, 56, 56);
-    background-color: #ffb7c5;
+    background-color: var(--pink-color);
     padding: 10px;
     border-radius: 0 15px 15px 0;
 }
@@ -78,7 +75,7 @@ img {
 }
 
 .links a {
-    color: #ffb7c5;
+    color: var(--pink-color);
     text-decoration: none;
 }
 
@@ -91,6 +88,7 @@ img {
 }
 
 .news-container {
+    background-color: var(--blue-color);
     color: #000000;
     padding: 16px;
     border-radius: 10px;
@@ -133,7 +131,7 @@ img {
 
 .divider {
     width: 8%;
-    border-top: 1px solid #ffb7c5;
+    border-top: 1px solid var(--pink-color);
 }
 
 #panels, #watchlist {
@@ -166,7 +164,7 @@ img {
 }
 
 .review-link:hover {
-    border: 4px solid #ffb7c5;
+    border: 4px solid var(--pink-color);
 }
 
 .anime-title {
@@ -184,6 +182,7 @@ img {
 }
 
 #quotes {
+    background-color: var(--blue-color);
     padding: 0 28%;
     margin: 2em 0;
 }
@@ -232,6 +231,13 @@ img {
     margin: 0 20%;
 }
 
+.subscribe-container {
+    background-color: var(--pink-color);
+    color: #000000;
+    padding: 16px;
+    border-radius: 10px;
+}
+
 .box-content {
     flex-wrap: wrap;
     align-items: flex-start;
@@ -261,6 +267,7 @@ img {
 }
 
 .subscribe-button {
+    background-color: var(--blue-color);
     font-size: 16px;
     font-weight: bold;
     color: #000000;
@@ -280,7 +287,7 @@ img {
 }
 
 .footer-link {
-    color: #ffb7c5;
+    color: var(--pink-color);
     text-decoration: none;
 }
 
