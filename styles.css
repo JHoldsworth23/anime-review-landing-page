@@ -1,6 +1,7 @@
 :root {
     --blue-color: #60C2F0;
     --pink-color: #FFB7C5;
+    --black-color: #000000;
 }
 
 body {
@@ -89,7 +90,7 @@ img {
 
 .news-container {
     background-color: var(--blue-color);
-    color: #000000;
+    color: var(--black-color);
     padding: 16px;
     border-radius: 10px;
 }
@@ -191,7 +192,7 @@ img {
     font-size: 24px;
     font-style: italic;
     font-weight: lighter;
-    color: #000000;
+    color: var(--black-color);
     padding: 10px 30px;
     border-radius: 10px;
 }
@@ -204,7 +205,7 @@ img {
 
 .quote-container hr {
     width: 20%;
-    border: 1px solid #000000;
+    border: 1px solid var(--black-color);
     margin: 6px auto 18px;
 }
 
@@ -233,7 +234,7 @@ img {
 
 .subscribe-container {
     background-color: var(--pink-color);
-    color: #000000;
+    color: var(--black-color);
     padding: 16px;
     border-radius: 10px;
 }
@@ -262,7 +263,7 @@ img {
     font-size: 16px;
     width: 240px;
     padding: 6px;
-    border: 2px solid #000000;
+    border: 2px solid var(--black-color);
     border-radius: 5px;
 }
 
@@ -270,9 +271,9 @@ img {
     background-color: var(--blue-color);
     font-size: 16px;
     font-weight: bold;
-    color: #000000;
+    color: var(--black-color);
     padding: 6px;
-    border: 2px solid #000000;
+    border: 2px solid var(--black-color);
     border-radius: 5px;
 }
 
